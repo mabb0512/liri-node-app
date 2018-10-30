@@ -22,3 +22,5 @@ To use the app:
 
 Example: node liri.js movie-this pretty woman
 
+video: https://drive.google.com/file/d/1Ep6NaZ_OXXl_G7UmevRE_miF6asCTW7k/view
+
